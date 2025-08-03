@@ -1,0 +1,57 @@
+[
+  {
+    "Nome": "Formiga",
+    "Vida": 1,
+    "Ataque": 2,
+    "Habilidade": "Ao morrer, dá +2/+1 a um aliado aleatório."
+  },
+  {
+    "Nome": "Peixe",
+    "Vida": 2,
+    "Ataque": 2,
+    "Habilidade": "Ao subir de nível, dá +1/+1 a todos os aliados."
+  },
+  {
+    "Nome": "Cavalo",
+    "Vida": 3,
+    "Ataque": 3,
+    "Habilidade": "Ao atacar, dá +1/+1 a um aliado aleatório."
+  },
+  {
+    "Nome": "Gato",
+    "Vida": 2,
+    "Ataque": 4,
+    "Habilidade": "Ao morrer, dá +2/+2 a um aliado aleatório."
+  },
+  {
+    "Nome": "Cachorro",
+    "Vida": 4,
+    "Ataque": 2,
+    "Habilidade": "Ao atacar, dá +1/+1 a todos os aliados."
+  },
+  {
+    "Nome": "Coelho",
+    "Vida": 3,
+    "Ataque": 3,
+    "Habilidade": "Ao morrer, dá +1/+1 a todos os aliados."
+  },
+  {
+    "Nome": "Tartaruga",
+    "Vida": 5,
+    "Ataque": 1,
+    "Habilidade": "Ao atacar, dá +2/+2 a um aliado aleatório."
+  },
+  {
+    "Nome": "Pássaro",
+    "Vida": 2,
+    "Ataque": 3,
+    "Habilidade": "Ao subir de nível, dá +1/+1 a um aliado aleatório."
+  },
+  {
+    "Nome": "Rato",
+    "Vida": 1,
+    "Ataque": 1,
+    "Habilidade": "Ao morrer, dá +1/+0 a todos os aliados."
+  }
+]
+
