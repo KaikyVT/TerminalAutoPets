@@ -19,15 +19,20 @@ class Program
         return JsonSerializer.Deserialize<List<Bichinho>>(json);
     }
 
-    static void Main()
+    static void MostrarBichinhos()
     {
         var bichinhos = CarregarBichinhos("bichinho.json");
-
-        Console.WriteLine("Bichinhos disponíveis na loja:");
-        foreach (var b in bichinhos)
+        foreach (Bichinho b in bichinhos)
         {
             Console.WriteLine($"{b.Nome} - ATK: {b.Ataque} / HP: {b.Vida} - Habilidade: {b.Habilidade}");
         }
+    }
+
+    static void Main()
+    { 
+        Console.WriteLine("Bichinhos disponíveis na loja:");
+        MostrarBichinhos();
+        
     }
 }
 

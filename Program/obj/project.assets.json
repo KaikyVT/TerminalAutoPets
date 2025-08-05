@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kaiky\\.nuget\\packages\\": {},
+    "C:\\Users\\alunolab08\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaiky\\source\\repos\\Program\\Program\\Program.csproj",
+      "projectUniqueName": "C:\\Users\\alunolab08\\Source\\Repos\\TerminalAutoPets\\Program\\Program.csproj",
       "projectName": "Program",
-      "projectPath": "C:\\Users\\kaiky\\source\\repos\\Program\\Program\\Program.csproj",
-      "packagesPath": "C:\\Users\\kaiky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaiky\\source\\repos\\Program\\Program\\obj\\",
+      "projectPath": "C:\\Users\\alunolab08\\Source\\Repos\\TerminalAutoPets\\Program\\Program.csproj",
+      "packagesPath": "C:\\Users\\alunolab08\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alunolab08\\Source\\Repos\\TerminalAutoPets\\Program\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\kaiky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alunolab08\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -51,8 +51,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -73,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
